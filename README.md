@@ -1,5 +1,3 @@
-# Python for Data Analytics - Full Course
-
 ## Table of Contents
 
 ### [Chapter 1: Python Basics (Ignored)](/1_Basics/)
