@@ -3,6 +3,9 @@
 ### [Chapter 1: Python Basics (Ignored)](/1_Basics/)
 
 *This chapter is meant for [Google Colab](https://colab.research.google.com/github/lukebarousse/Python_Data_Analytics_Course/blob/main/1_Basics/01_Getting_Started.ipynb).*
+
+Obs.: I developed the content taught by instructor Luke Barousse. I am grateful for the learning.
+
 - Introduction to Python
     - Variables
     - Data Types
